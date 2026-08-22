@@ -21,8 +21,6 @@
 * 일반적인 온도 및 RoR 그래프 
 * 목표 DTR 설정 및 자동 배출시간 계산
 * ChatGPT를 이용한 Ai 가이드 로스팅
-* 스마트 전력/전압 측정기를 이용한 화력 보정 프로파일링 구성
-* 스마트 온/습도계와 Ai를 이용한 프로 파일링 구성
 * 프로파일 저장 및 공유 기능
 * 로스팅 다시 보기(리플레이)
 * 로스팅 따라 하기 (완벽 구현은 아직...)
@@ -84,24 +82,6 @@
 >## 보카보카 블루투스(BLE/BT) 장치 검색/등록기 BLE Scanner
 >
 ><img width="1212" height="892" alt="image" src="https://github.com/user-attachments/assets/d6aa6df8-79a0-41ca-923f-3702be6f9ea6" />
-
-<br>
-
->## BLE 스마트 기기 검색/등록(온습도계, 전력측정기)
->
-><img width="1892" height="1082" alt="image" src="https://github.com/user-attachments/assets/c7fbdd08-358d-4666-96c2-fffa63ea2b5c" />
-
-<br>
-
->## 히터 단계별 온도 상승 속도 측정
->
-><img width="1892" height="1082" alt="image" src="https://github.com/user-attachments/assets/6c2072f8-48c6-4824-9a38-7ebace73a6ac" />
-
-<br>
-
->## 히터 단계별 소비전력 측정
->
-><img width="1892" height="1082" alt="image" src="https://github.com/user-attachments/assets/74c9287d-0e71-4ff3-9d14-0675816b3b43" />
 
 <br>
 
